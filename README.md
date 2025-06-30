@@ -1,1 +1,0 @@
-# n8n-rogue-one-scrum-demo
